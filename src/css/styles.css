@@ -18,3 +18,12 @@ body {
   max-width: 320px;
   margin-bottom: 16px;
 }
+
+ul {
+list-style: none;
+}
+
+.name {
+  font-size: larger;
+  font-weight: 900;
+}
